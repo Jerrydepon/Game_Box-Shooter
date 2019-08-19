@@ -1,0 +1,41 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Program Learning\Unity3D project\Box Shooter\Builds\PC\Box Shooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Program Learning\Unity3D project\Box Shooter\Builds\PC\Box Shooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Program Learning\Unity3D project\Box Shooter\Builds\PC\Box Shooter_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Program Learning\Unity3D project\Box Shooter\Builds\PC\Box Shooter_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Program Learning\Unity3D project\Box Shooter\Builds\PC\Box Shooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Program Learning\Unity3D project\Box Shooter\Builds\PC\Box Shooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Program Learning\Unity3D project\Box Shooter\Builds\PC\Box Shooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Program Learning\Unity3D project\Box Shooter\Builds\PC\Box Shooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Program Learning\Unity3D project\Box Shooter\Builds\PC\Box Shooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Program Learning\Unity3D project\Box Shooter\Builds\PC\Box Shooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.210 seconds
+Platform assembly: D:\Program Learning\Unity3D project\Box Shooter\Builds\PC\Box Shooter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Program Learning\Unity3D project\Box Shooter\Builds\PC\Box Shooter_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.868741 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 207c -> priority: 1 
+  Thread -> id: 1c9c -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.474674 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 464.
+Total: 0.251259 ms (FindLiveObjects: 0.038716 ms CreateObjectMapping: 0.013432 ms MarkObjects: 0.194370 ms  DeleteObjects: 0.004345 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.942915 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 470.
+Total: 0.650667 ms (FindLiveObjects: 0.065580 ms CreateObjectMapping: 0.056493 ms MarkObjects: 0.506074 ms  DeleteObjects: 0.021728 ms)
+
